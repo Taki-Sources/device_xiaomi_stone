@@ -26,4 +26,10 @@
     -->
     <integer name="config_fingerprintSensorLocation">3</integer>
 
+
+    <!-- Maintainer info -->
+    <string name="config_maintainer_name" translatable="false">Taki</string>
+    <string name="config_maintainer_link" translatable="false">https://github.com/Amrito1</string>
+
+
 </resources>
